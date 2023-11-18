@@ -1,6 +1,7 @@
 <table>
   <tr>
     <td>      
+      
 - [@codewizard337, Welcome!](#codewizard337-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
