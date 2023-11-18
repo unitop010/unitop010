@@ -14,6 +14,7 @@
     </td>
     <td>    
       <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">
+      
     </td>
   </tr>
 </table>
