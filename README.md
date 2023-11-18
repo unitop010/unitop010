@@ -1,3 +1,5 @@
+Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)
+
 <table>
   <tr>
     <td>      
@@ -10,7 +12,6 @@
     - [🏆 GitHub Trophies](#-github-trophies)
     - [✍️ Random Dev Quote](#️-random-dev-quote)
     - [😂 Random Dev Meme](#-random-dev-meme)
-- Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)  
 
     </td>
     <td>    
