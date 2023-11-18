@@ -20,14 +20,6 @@
 
 
 # @codewizard337, Welcome!
-  
-
-<a href="https://github.com/codewizard337" target="_blank">
-  <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">
-</a>  
-  
-
-
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
