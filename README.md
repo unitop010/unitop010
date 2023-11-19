@@ -3,21 +3,21 @@
 <h1 align="center" title="...and I'm happy to see you here :)">TOBY ADAMS  </a></h1>
 <p align="center">
 
- <a href="https://github.com/getintorj/readme-typing-svg">
+ <a href="https://codewizard337.github.io/">
     <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">   
 </p>
 
   <b>👤 About</b>
 <p align="center">
  
-  <a href="https://github.com/getintorj/readme-typing-svg">
+  <a href="https://github.com/codewizard337/">
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
        
-   <a href="https://github.com/codewizard337/github-profile-views-counter">
+   <a>
    <img src="https://komarev.com/ghpvc/?username=codewizard337">
 </a>  
-    <a href="https://github.com/codewizard337?tab=followers">
+    <a>
         <img src="https://img.shields.io/github/followers/codewizard337?label=Followers&style=social" alt="GitHub Badge">
     </a>  
 
