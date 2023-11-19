@@ -1,4 +1,3 @@
-<h1 align="center" title="...and I'm happy to see you here :)">TOBY ADAMS  </a></h1>
 @codewizard337, Welcome! Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)
 
 <table>
