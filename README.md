@@ -190,9 +190,6 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewizard337&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codewizard337&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewizard337&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=codewizard337&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=codewizard337&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=codewizard337&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewizard337&layout=compact&langs_count=7&theme=dracula"/>
