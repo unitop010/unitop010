@@ -4,9 +4,9 @@
 <p align="center">
 
  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20codewizard337%20;&font=Fira%20Code&center=true&width=440&height=45&color=6A5ACD&vCenter=true&pause=1000&size=22" />
+    <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">   
 </p>
-<img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">   
+
   <b>👤 About</b>
 <p align="center">
  
