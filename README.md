@@ -186,7 +186,6 @@
     </td>
  </tr>
 </table>
-<br><br>
 
 <br/>  
 
@@ -206,3 +205,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=codewizard337&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewizard337&layout=compact&langs_count=7&theme=dracula"/>
