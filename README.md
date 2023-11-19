@@ -1,5 +1,5 @@
 <h1 align="center" title="...and I'm happy to see you here :)">TOBY ADAMS  </a></h1>
-<p align="center">@codewizard337, Welcome! Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)</p>
+@codewizard337, Welcome! Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)
 
 <table>
   <tr>
