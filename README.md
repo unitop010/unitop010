@@ -37,7 +37,6 @@
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
