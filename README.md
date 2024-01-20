@@ -1,5 +1,5 @@
 @codewizard337, Welcome! Please visit [https://codewizard337.github.io/](https://codewizard337.github.io/)
-<h1 align="center" title="...and I'm happy to see you here :)">Golden Unicorn/@codewizard337</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">@Golden Unicorn/@codewizard337</a></h1>
 
 <table>
   <tr>
