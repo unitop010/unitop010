@@ -1,26 +1,5 @@
 <h1 align="center" title="...and I'm happy to see you here :)">@Super-Ninja Dev/@codewizard337</a></h1>
 
-/*<table>
-  <tr>
-    <td>      
-      
-- [@codewizard337, Welcome!](#codewizard337-welcome)
-  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
-  - [Rapidfire](#rapidfire)
-  - [Languages and Tools](#languages-and-tools)
-- [📊 GitHub Stats:](#-github-stats)
-    - [🏆 GitHub Trophies](#-github-trophies)
-    - [✍️ Random Dev Quote](#️-random-dev-quote)
-    - [😂 Random Dev Meme](#-random-dev-meme)
-
-    </td>
-    <td>    
-      <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">      
-    </td>
-  </tr>
-</table>*/
-
-
 # @codewizard337, Welcome!
 
 ## My personal values and work ethic
