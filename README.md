@@ -1,6 +1,6 @@
 <h1 align="center" title="...and I'm happy to see you here :)">@Super-Ninja Dev/@codewizard337</a></h1>
 
-# @codewizard337, Welcome!
+# Welcome to @codewizard337!
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
