@@ -1,6 +1,6 @@
 <h1 align="center" title="...and I'm happy to see you here :)">@Super-Ninja Dev/@codewizard337</a></h1>
 
-<table>
+/*<table>
   <tr>
     <td>      
       
@@ -18,7 +18,7 @@
       <img src="https://github.com/codeWizard337/codewizard337-portfolio/blob/master/gif/portfolio.gif">      
     </td>
   </tr>
-</table>
+</table>*/
 
 
 # @codewizard337, Welcome!
