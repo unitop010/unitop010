@@ -19,29 +19,6 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/codewizard337)  
-  
-
-- 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -170,6 +147,3 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=codewizard337&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=codewizard337&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=codewizard337&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewizard337&layout=compact&langs_count=7&theme=dracula"/>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=codewizard337&theme=radical&no-frame=false&no-bg=true&margin-w=4)
