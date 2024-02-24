@@ -135,11 +135,11 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=rust"width="40" height="40" alt="Rust" />
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=go"width="40" height="40" alt="Golang" />
       <br>jQuery
     </td>
   </tr>
