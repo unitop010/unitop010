@@ -136,11 +136,11 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rust"width="40" height="40" alt="Rust" />
-      <br>Android
+      <br>Rust
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go"width="40" height="40" alt="Golang" />
-      <br>jQuery
+      <br>Go
     </td>
   </tr>
  <tr>
