@@ -56,8 +56,8 @@
       <br>Nuxt
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nest" width="40" height="40" alt="Nest" />
-      <br>Nest
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
+      <br>Redux
     </td>
   </tr>
   <tr>
@@ -72,8 +72,8 @@
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask" />
-      <br>Flask
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="RestAPI" />
+      <br>RestAPI
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
@@ -130,7 +130,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" />
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -149,7 +149,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -157,8 +157,8 @@
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=googlecloud" width="40" height="40" alt="Google Cloud" />
-      <br>Google Cloud
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="40" height="40" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
