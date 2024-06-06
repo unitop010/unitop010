@@ -1,6 +1,6 @@
-<h1 align="center" title="...and I'm happy to see you here :)">@Super-Ninja Dev/@codewizard337</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">@unitop322</a></h1>
 
-# Welcome to @Super-Ninja Dev/@codewizard337!
+# Welcome to @unitop322!
 
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
@@ -182,7 +182,7 @@
 <br/>  
 
 # 📊 GitHub Stats:
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=unitop322&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=unitop322&theme=react" />
 <p align="center">
   <a>
 <!--     <img height="120" width="150" src="https://github.com/stayForward09/stayForward09/blob/main/left.png"> -->
