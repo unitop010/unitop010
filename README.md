@@ -16,9 +16,7 @@
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
-
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react" />
 ## Languages and Tools  
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
