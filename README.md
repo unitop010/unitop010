@@ -1,6 +1,6 @@
 <h1 align="center" title="...and I'm happy to see you here :)">🏅 Senior Full-Stack Developer 🏅</a></h1>
 
-🙏 Welcome to @unitop322!
+<h3>🙏 Welcome to @unitop322!</h3>
 
 📌 Senior Full-Stack Developer
 
@@ -14,7 +14,7 @@
 
 
 <br/>  
-📌 Languages and Tools  
+<h3>📌 Languages and Tools</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -176,8 +176,7 @@
 
 <br/>  
 
-# 📊 GitHub Stats:
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=unitop322&theme=react" />
+<h3># 📊 GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react&card_width=350" />
