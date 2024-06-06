@@ -12,7 +12,6 @@
 
 ⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
 
-
 <br/>  
 <h3>📌 Languages and Tools</h3>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -211,9 +210,8 @@
     </td>
   </tr>
 </table>
-
+  
 <br/>  
-
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
