@@ -1,19 +1,17 @@
 <h1 align="center" title="...and I'm happy to see you here :)">@unitop322</a></h1>
 
 # Welcome to @unitop322!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitop322&label=Profile%20views&color=0e75b6&style=flat" alt="unitop322" /> </p>
-## My personal values and work ethic
-✨ I want to build strong relationships with my clients.
 
-✨ I believe that a good working relationship is built on mutual trust and respect.
+📌 Senior Full-Stack Developer
 
-✨ I value open communication and strive to keep you updated on progress every step of the way.
+⭐ Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+⭐ Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
+
 
 <br/>  
 ## Languages and Tools  
