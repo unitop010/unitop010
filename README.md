@@ -81,15 +81,15 @@
       <br>Rust
     </td>
     <td align="center" width="96">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
+      <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/anchor.png" alt="Anchor" width="55" height="55" />
       <br>Anchor
     </td>
     <td align="center" width="96">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
+      <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/foundry.png" alt="icon" width="55" height="55" />
       <br>Foundry
     </td>
     <td align="center" width="96">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
+      <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/hardhat.svg" alt="HardHat" width="55" height="55" />
       <br>HardHat
     </td>
   </tr>
