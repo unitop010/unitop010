@@ -35,16 +35,12 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" />
+      <br>Three.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=svelte" width="40" height="40" alt="Svelte" />
+      <br>Svelte
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nuxt" width="40" height="40" alt="Nuxt" />
@@ -53,6 +49,48 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
       <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="40" >
+      <br>NFT
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="40" >
+      <br>DeFi
+    </td>
+    <td align="center" width="96">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
+      <br>Anchor
+    </td>
+    <td align="center" width="96">
+      <img src="./foundry.png" alt="icon" width="55" height="55" />
+      <br>Foundry
+    </td>
+    <td align="center" width="96">
+      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
+      <br>HardHat
     </td>
   </tr>
   <tr>
@@ -63,12 +101,12 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-      <br>Django
+      <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
+      <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="RestAPI" />
-      <br>RestAPI
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+      <br>Django
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
@@ -97,16 +135,16 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
-      <br>Rust
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Golang" />
       <br>Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
-      <br>Solidity
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
@@ -129,8 +167,8 @@
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
-      <br>Selenium
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="RestAPI" />
+      <br>RestAPI
     </td>
   </tr>
   <tr>
@@ -176,7 +214,7 @@
 
 <br/>  
 
-<h3># 📊 GitHub Stats:</h3>
+<h3>📊 GitHub Stats:</h3>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react&card_width=350" />
