@@ -1,8 +1,8 @@
 <h1 align="center" title="...and I'm happy to see you here :)">🏅 Senior Full-Stack Developer 🏅</a></h1>
 
-<h3>🙏 Welcome to @unitop322!</h3>
+<h2>🙏 Welcome to @unitop322!</h2>
 
-📌 Senior Full-Stack Developer
+<h3>📌 Senior Full-Stack Developer</h3>
 
 ⭐ Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
