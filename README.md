@@ -183,5 +183,5 @@
 
 # 📊 GitHub Stats:
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=unitop322&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=codewizard337&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewizard337&layout=compact&langs_count=7&theme=dracula"/>
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=unitop322&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unitop322&layout=compact&langs_count=7&theme=dracula"/>
