@@ -1,7 +1,7 @@
 <h1 align="center" title="...and I'm happy to see you here :)">@unitop322</a></h1>
 
 # Welcome to @unitop322!
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitop322&label=Profile%20views&color=0e75b6&style=flat" alt="unitop322" /> </p>
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
 
@@ -16,7 +16,6 @@
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
 <br/>  
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=unitop322&count_private=true&show_icons=true&theme=react" />
 ## Languages and Tools  
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
