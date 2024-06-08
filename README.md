@@ -4,7 +4,7 @@
 
 <h3>📌 Senior Software Engineer</h3>
 
-⭐ Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
+⭐ Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
 ⭐ Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
 
