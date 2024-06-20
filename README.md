@@ -4,13 +4,11 @@
 
 <h3>📌 Data Extraction Specialist | Python Software Engineer </h3>
 
+⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
+
 ⭐ Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
 ⭐ Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim.
-
-⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
-
-⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
 
 ⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
