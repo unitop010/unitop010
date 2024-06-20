@@ -1,8 +1,8 @@
-<h1 align="center" title="...and I'm happy to see you here :)">🏅 Senior Software Engineer 🏅</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">🏅 Data Extraction Specialist | Python Software Engineer 🏅</a></h1>
 
 <h2>🙏 Welcome to @unitop322!</h2>
 
-<h3>📌 Senior Software Engineer</h3>
+<h3>📌 Data Extraction Specialist | Python Software Engineer </h3>
 
 ⭐ Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
@@ -11,6 +11,8 @@
 ⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
 ⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
+
+⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 
 <br/>  
 <h3>📌 Languages and Tools</h3>
