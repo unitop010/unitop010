@@ -4,18 +4,18 @@
 
 <h3>📌 Data Extraction Specialist | Python Software Engineer </h3>
 
-⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
+⭐ Web Scraping and Data Mining using Python, Selenium, BeautifulSoup, Scrapy, Pandas, etc
 
-⭐ Website Automation Bot Development(Python, Selenium, PyQt)
+⭐ Website Automation Bot Development using Python, Selenium, PyQt, Rest API, etc
 
-⭐ Desktop Application Development (Python, PyQt, Qt, C++, C#)
+⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
 
-⭐ Web Develpment (React.JS, Next.JS, Vue.JS, Node.JS, GraphQL)
+⭐ Web Develpment using React.JS, Next.JS, Vue.JS, Node.JS, GraphQL,etc
 
 <br/>  
 <h3>📌 Languages and Tools</h3>
 
-<!--   
+
 <br/>  
 <h3>📊 GitHub Stats</h3>
 <p align="center">
@@ -25,4 +25,4 @@
   <a href="https://github.com/OnlyForward0613/convoychat">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=unitop322&layout=compact&langs_count=8&card_width=350&theme=react" />
   </a>
-</p> -->
+</p>
