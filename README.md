@@ -1,8 +1,8 @@
-<h1 align="center" title="...and I'm happy to see you here :)">🏅 Data Extraction Specialist | Python Software Engineer 🏅</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">🏅 Data Scraping Specialist | Python Software Engineer 🏅</a></h1>
 
 <h2>🙏 Welcome to @unitop010!</h2>
 
-<h3>📌 Data Extraction Specialist | Python Software Engineer </h3>
+<h3>📌 Data Scraping Specialist | Python Software Engineer </h3>
 
 ⭐ Web Scraping and Data Mining using Python, Selenium, BeautifulSoup, Scrapy, Rotation Proxy, Pandas, etc
 
