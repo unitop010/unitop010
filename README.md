@@ -18,11 +18,11 @@
 
 👨‍🎓 <strong>Advanced Data Structures and Algorithms</strong>
 
-  Completed a comprehensive course on advanced data structures and algorithms offered by Coursera.
+&nbsp;&nbsp;&nbsp;Completed a comprehensive course on advanced data structures and algorithms offered by Coursera.
 
 👨‍🎓 <strong>Cloud Computing Fundamentals</strong>
 
-  Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
+&nbsp;&nbsp;&nbsp;Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
 
 <!--
 <br/>  
