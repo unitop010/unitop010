@@ -6,7 +6,7 @@
 
 ⭐ Web Scraping and Data Mining using Python, Selenium, BeautifulSoup, Scrapy, Pandas, etc
 
-⭐ Website Automation Bot Development using Python, Selenium, PyQt, Rest API, etc
+⭐ Website Automation & Bot Development ranging from form submissions, data entry, and file downloads to interacting with APIs and managing web-based workflows
 
 ⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
 
