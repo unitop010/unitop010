@@ -16,7 +16,13 @@
 <br/>  
 <h3>📌 Certificates</h3>
 
+👨‍🎓 <strong>Advanced Data Structures and Algorithms</strong>
+  Completed a comprehensive course on advanced data structures and algorithms offered by Coursera.
 
+👨‍🎓 <strong>Cloud Computing Fundamentals</strong>
+  Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
+
+<!--
 <br/>  
 <h3>📊 GitHub Stats</h3>
 <p align="center">
@@ -27,3 +33,4 @@
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=unitop010&layout=compact&langs_count=8&card_width=350&theme=react" />
   </a>
 </p>
+-->
