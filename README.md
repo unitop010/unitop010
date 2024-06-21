@@ -16,11 +16,11 @@
 <br/>  
 <h3>📌 Certificates</h3>
 
-👨‍🎓 <h5>Advanced Data Structures and Algorithms</h5>
+👨‍🎓 <strong>Advanced Data Structures and Algorithms</strong>
 
   Completed a comprehensive course on advanced data structures and algorithms offered by Coursera.
 
-👨‍🎓 <h5>Cloud Computing Fundamentals</h5>
+👨‍🎓 <strong>Cloud Computing Fundamentals</strong>
 
   Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
 
