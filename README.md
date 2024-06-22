@@ -13,6 +13,7 @@
 ⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
 
 ⭐ Web Develpment using React.JS, Next.JS, Vue.JS, Node.JS, GraphQL,etc
+
 <br/>  
 <h3>📌 Certificates</h3>
 
@@ -23,6 +24,7 @@
 👨‍🎓 <strong>Cloud Computing Fundamentals</strong>
 
 &nbsp;&nbsp;&nbsp;Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
+
 <br/>  
 <h3>📊 GitHub Stats</h3>
 <p align="center">
