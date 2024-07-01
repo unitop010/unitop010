@@ -4,7 +4,7 @@
 
 <h3>📌 Data Scraping Specialist | Python Software Engineer </h3>
 
-⭐ Web Scraping and Data Mining using Python, Selenium, BeautifulSoup, Scrapy, Rotation Proxy, Pandas, etc
+⭐ Web Scraping and Data Mining using Python, Requests, Selenium, BeautifulSoup, Scrapy, Rotation Proxy, Pandas, etc
 
 ⭐ Web Automation & Bot Development ranging from form submissions, data entry, and file downloads to interacting with APIs
 
