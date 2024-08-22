@@ -12,7 +12,7 @@
 
 ⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
 
-⭐ Web Develpment using React.JS, Next.JS, Vue.JS, Node.JS, GraphQL,etc
+⭐ Web Develpment using React.JS, Next.JS, Vue.JS, Node.JS, PostgreSQL, GraphQL,etc
 <br/>  
 <h3>📌 Certificates</h3>
 
