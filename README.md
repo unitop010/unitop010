@@ -8,7 +8,7 @@
 
 ⭐ Data Scraping & Automation: Python, Requests, Selenium, BeautifulSoup, Scrapy, Proxy, Zapier, Make.com, etc
 
-⭐ Database & Servers: MySQL, PostgreSQL, MongoDB, CSV, Excel, JSON, Pandas, Numpy, Amazon S3, Google Cloud Storage, Microsoft Azure
+⭐ Database & Servers: MySQL, PostgreSQL, MongoDB, CSV, Excel, JSON, Amazon S3, Google Cloud Storage, Microsoft Azure
 
 ⭐ Data Processing using Pandas, Numpy, Matplotlib, CSV, Excel, JSON, etc
 
