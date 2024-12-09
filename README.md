@@ -25,7 +25,6 @@
 👨‍🎓 <strong>BigCommerce Blueprint Learning Path</strong> | BigCommerce
 
 👨‍🎓 <strong>Certified Data Management Professional (CDMP)</strong> | DAMA International
-
 <br/>  
 <h3>📊 GitHub Stats</h3>
 <p align="center">
