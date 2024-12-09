@@ -1,28 +1,30 @@
-<h1 align="center" title="...and I'm happy to see you here :)">🏅 Data Scraping Specialist | Python Software Engineer 🏅</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">🏅 BigCommerce Specialist & Data Management Expert 🏅</a></h1>
 
 <h2>🙏 Welcome to @unitop010!</h2>
 
-<h3>📌 Data Scraping Specialist | Python Software Engineer </h3>
+<h3>📌 BigCommerce Specialist & Data Management Expert </h3>
 
-⭐ Web Scraping and Data Mining using Python, Requests, Selenium, BeautifulSoup, Scrapy, Rotation Proxy, Pandas, etc
+⭐ E-commerce Platforms: BigCommerce, Shopify, WooCommerce, Product inventory management and optimization
 
-⭐ Web Automation & Bot Development ranging from form submissions, data entry, and file downloads to interacting with APIs
+⭐ Data Scraping & Automation: Python, Requests, Selenium, BeautifulSoup, Scrapy, Proxy, Zapier, Make.com, etc
+
+⭐ Database & Servers: MySQL, PostgreSQL, MongoDB, CSV, Excel, JSON, Pandas, Numpy, Amazon S3, Google Cloud Storage, Microsoft Azure
 
 ⭐ Data Processing using Pandas, Numpy, Matplotlib, CSV, Excel, JSON, etc
 
-⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
-
 ⭐ Web Develpment using React.JS, Next.JS, Vue.JS, Node.JS, PostgreSQL, GraphQL, Django, Flask etc
+
+⭐ Desktop Application Development using Python, PyQt, Qt, C++, C#, etc
 <br/>  
 <h3>📌 Certificates</h3>
 
-👨‍🎓 <strong>Advanced Data Structures and Algorithms</strong>
+👨‍🎓 <strong>E-Commerce Specialist Certification</strong> | Digital Marketer
 
-&nbsp;&nbsp;&nbsp;Completed a comprehensive course on advanced data structures and algorithms offered by Coursera.
+👨‍🎓 <strong>SEO for E-commerce</strong> | SEMrush Academy
 
-👨‍🎓 <strong>Cloud Computing Fundamentals</strong>
+👨‍🎓 <strong>BigCommerce Blueprint Learning Path</strong> | BigCommerce
 
-&nbsp;&nbsp;&nbsp;Received certification in Cloud Computing Fundamentals from Microsoft Azure Academy
+👨‍🎓 <strong>Certified Data Management Professional (CDMP)</strong> | DAMA International
 
 <br/>  
 <h3>📊 GitHub Stats</h3>
