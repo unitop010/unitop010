@@ -27,7 +27,7 @@
 👨‍🎓 <strong>Certified Data Management Professional (CDMP)</strong> | DAMA International
 <br/>  
 <h3>📊 GitHub Stats</h3>
-<p align="center">
+<p align="center" style="display: flex;">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=unitop010&count_private=true&include_all_commits=true&show_icons=true&theme=react&card_width=350" />
   </a>
