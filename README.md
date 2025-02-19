@@ -3,7 +3,9 @@
 <h2 align="center">🏅 Senior Software Engineer 🏅</h2>
 
 <h3>📌 What I Do </h3>
+
 🌱 Full Stack Development: Create complete web applications using modern tools.
+
 
 🌱 AI/ML Integration: Build smart systems like recommendation engines, chatbots, and data analysis tools.
 
@@ -14,7 +16,8 @@
 🌱 API Integration & Automation: Connect third-party APIs, automate tasks, and build bots for data processing.
 
 🌱 Data Scraping & Analysis: Collect, clean, and analyze data from websites and APIs to provide useful insights.
-<br/>  
+<br/>
+<br/>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/OnlyForward0613/github-readme-stats">
