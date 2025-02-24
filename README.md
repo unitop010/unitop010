@@ -24,6 +24,6 @@
     <img height=180 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=unitop010&count_private=true&include_all_commits=true&show_icons=true&theme=react&card_width=350" />
   </a>
   <a href="https://github.com/OnlyForward0613/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=unitop010&layout=compact&langs_count=8&card_width=350&theme=react" />
+    <img height=180 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=unitop010&layout=compact&langs_count=6&card_width=350&theme=react" />
   </a>
 </p>
