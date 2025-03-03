@@ -6,18 +6,18 @@
 </div>
 <h3>📌 What I Do </h3>
 
-🌱 Full Stack Development: Create complete web applications using modern tools.
+🌱 **Full Stack Development**: Create complete web applications using modern tools.
 
 
-🌱 AI/ML Integration: Build smart systems like recommendation engines, chatbots, and data analysis tools.
+🌱 **AI/ML Integration**: Build smart systems like recommendation engines, chatbots, and data analysis tools.
 
-🌱 Real-Time Data Platforms: Develop trading platforms with real-time alerts and customizable dashboards.
+🌱 **Real-Time Data Platforms**: Develop trading platforms with real-time alerts and customizable dashboards.
 
-🌱 E-commerce Optimization: Improve e-commerce sites for speed, scalability, and user experience.
+🌱 **E-commerce Optimization**: Improve e-commerce sites for speed, scalability, and user experience.
 
-🌱 API Integration & Automation: Connect third-party APIs, automate tasks, and build bots for data processing.
+🌱 **API Integration & Automation**: Connect third-party APIs, automate tasks, and build bots for data processing.
 
-🌱 Data Scraping & Analysis: Collect, clean, and analyze data from websites and APIs to provide useful insights.
+🌱 **Data Scraping & Analysis**: Collect, clean, and analyze data from websites and APIs to provide useful insights.
 <br/>
 <div align="center">
   <picture>
@@ -27,6 +27,6 @@
   </picture>
 </div>
 <div align="center">
-  <p><img height=180 align="left" style="margin-left:20px;" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
-  <p><img height=180 align="right" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 </div>
