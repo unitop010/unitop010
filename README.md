@@ -24,7 +24,6 @@
 
 🌱 **Data Scraping & Analysis**: Collect, clean, and analyze data from websites and APIs to provide useful insights.
 
-<br/>
 <h3>📊 GitHub Stats</h3>
 <div align="center">
   <p><img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
