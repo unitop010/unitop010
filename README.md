@@ -32,18 +32,7 @@
 
 </br>
 
-<div align="center">
-
-<p><strong>
-  Freelancing & Working on Superior Crypto & AI
-  <br><br> 
-  Vibing to : 🎧  
-</strong></p>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=Profile+views)
-[![telegram badge](https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=unitop010&label=Profile%20views&color=0e75b6&style=flat" alt="unitop010" />
   <a href="https://t.me/unitop010"><img src="https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram" alt="unitop010" /></a>
 </p>
-</div>
