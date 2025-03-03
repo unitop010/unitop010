@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Senior+Software+Engineer;Over+9+years+of+Exp+in+Full+Stack+Development" alt="Typing SVG" /></a>
 </div>
-<hr></hr>
 <h3>📌 What I Do </h3>
 
 🌱 **Full Stack Development**: Create complete web applications using modern tools.
@@ -33,7 +32,7 @@
 
 </br>
 
-<div align="center" width="50">
+<div align="center">
 
 <p><strong>
   Freelancing & Working on Superior Crypto & AI
@@ -41,7 +40,6 @@
   Vibing to : 🎧  
 </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funitop010&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/TOP-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=Profile+views)
+[![telegram badge](https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
 </div>
