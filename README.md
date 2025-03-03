@@ -1,7 +1,9 @@
 <h1 align="center" title="...and I'm happy to see you here :)">👋 Welcome to @unitop010! 👋</a></h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Senior+Software+Engineer;Over+9+years+of+Exp+in+Full+Stack+Development" alt="Typing SVG" /></a>
+</div>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitop010&label=Profile%20views&color=0e75b6&style=flat" alt="unitop010" /> </p>
 <h3>📌 What I Do </h3>
 
 🌱 **Full Stack Development**: Create complete web applications using modern tools.
@@ -28,7 +30,4 @@
   <p><img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
   <p><img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 </div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Senior+Software+Engineer;Over+9+years+of+Exp+in+Full+Stack+Development" alt="Typing SVG" /></a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unitop010&label=Profile%20views&color=0e75b6&style=flat" alt="unitop010" /> </p>
