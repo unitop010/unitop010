@@ -1,4 +1,0 @@
-# https://www.robotstxt.org/robotstxt.html
-User-Agent: *
-Allow: /
-Sitemap: https://codewizard337.github.io/sitemap.xml
