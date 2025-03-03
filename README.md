@@ -34,9 +34,14 @@
 </br>
 
 <div align="center" width="50">
-  <p><strong>
-    Vibing to : 🎧  
-  </strong></p>
-  ![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=Profile+Views)
-  [![telegram badge](https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
+
+<p><strong>
+  Freelancing & Working on Superior Crypto & AI
+  <br><br> 
+  Vibing to : 🎧  
+</strong></p>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funitop010&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/TOP-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
 </div>
