@@ -26,9 +26,7 @@
     <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
   </picture>
 </div>
-<br/>
-<h3>📊 GitHub Stats</h3>
 <div align="center">
-  <p><img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
-  <p><img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="left" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="right" style="margin-right: 20px; src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 </div>
