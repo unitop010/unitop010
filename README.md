@@ -3,13 +3,13 @@
 <h2 align="center">🏅 Senior Software Engineer 🏅</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Senior+Software+Engineer;Over+8+years+of+Experience+in+Full+Stack+Development" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Senior+Software+Engineer!;Over+8+years+of+Experience+in+Full+Stack+Development!" alt="Typing SVG" /></a>
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
 <h3>📌 What I Do </h3>
@@ -39,6 +39,6 @@
 </p>
 
 <p align="center">
-  <p><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-  <p><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
 </p>
