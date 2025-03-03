@@ -34,6 +34,9 @@
 </br>
 
 <div align="center" width="50">
-![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=Profile+Views)
-[![telegram badge](https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
+  <p><strong>
+    Vibing to : 🎧  
+  </strong></p>
+  ![Totals Hits](https://komarev.com/ghpvc/?username=unitop010&style=flat&color=orange&label=Profile+Views)
+  [![telegram badge](https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram)](https://t.me/unitop010) <br>
 </div>
