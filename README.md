@@ -3,6 +3,7 @@
 <h2 align="center">🏅 Senior Software Engineer 🏅</h2>
 
 <p align="left">
+  <img height="20" src="https://img.shields.io/github/followers/unitop010?label=follow&logo=github&style=flat" />
   <img src="https://komarev.com/ghpvc/?username=unitop010&label=Profile%20views&color=orange&style=flat" alt="unitop010" />
   <a href="https://t.me/unitop010"><img src="https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram" alt="unitop010" /></a>
   <img src="https://img.shields.io/badge/unitop010-grey?style=flat&logo=discord" alt="unitop010" />
