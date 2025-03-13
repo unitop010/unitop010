@@ -10,6 +10,10 @@
   <a href="https://github.com/unitop010"><img src="https://img.shields.io/badge/+12723905979-grey?style=flat&logo=whatsapp" alt="+12723905979" /></a>
 </p>
 
+I am a seasoned Senior Software Engineer and Full Stack Developer with a proven track record of creating scalable, data-driven platforms and AI-powered systems. My expertise lies in crafting robust, user-centric applications that empower businesses to optimize workflows, make informed decisions, and drive sustainable growth.
+
+With a strong foundation in blockchain technologies and Large Language Models (LLMs), I build innovative solutions tailored to financial and business applications. Whether it’s integrating smart contracts, developing decentralized applications (dApps), or leveraging AI for automated decision-making, I deliver cutting-edge solutions aligned with your goals.
+
 <h3>📌 What I Do </h3>
 
 🌱 **Full Stack Development**: Create complete web applications using modern tools.
