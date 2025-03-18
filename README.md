@@ -32,5 +32,5 @@ With a strong foundation in blockchain technologies and Large Language Models (L
 <h3>📊 GitHub Stats</h3>
 <div align="center">
   <p><img height=190 align="left" src="https://github-readme-stats.vercel.app/api?username=unitop010&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" /></p>
-<!--   <p><img height=190 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> -->
+  <p><img height=190 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=unitop010&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 </div>
