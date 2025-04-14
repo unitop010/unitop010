@@ -4,7 +4,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=unitop010&label=Profile%20views&color=orange&style=flat" alt="unitop010" />
-  <a href="https://github.com/unitop010?tab=followers"><img height="20" src="https://img.shields.io/github/followers/unitop010?label=follow&logo=github&style=flat" /></a>
   <a href="https://t.me/unitop010"><img src="https://img.shields.io/badge/unitop010-grey?style=flat&logo=telegram" alt="unitop010" /></a>
   <a href="https://github.com/unitop010"><img src="https://img.shields.io/badge/unitop010-grey?style=flat&logo=discord" alt="unitop010" /></a>
   <a href="https://github.com/unitop010"><img src="https://img.shields.io/badge/+12723905979-grey?style=flat&logo=whatsapp" alt="+12723905979" /></a>
